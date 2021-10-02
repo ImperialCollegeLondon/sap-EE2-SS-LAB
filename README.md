@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction
-This lab will teach you some fundamentals of Digital Signal Processing (DSP), and introduce you to Python and Jupyter notebooks, mathematical tools that integrate numerical analysis, matrix computation and graphics in an easy-to-use environment. Jupyter notebooks are highly interactive; their interpretative nature allows you to explore mathematical concepts in signal processing without tedious programming. Once grasped, the same tool can be used for other subjects such as circuit analysis, communications, and control engineering.
+This lab will teach you some fundamentals of Digital Signal Processing (DSP), and introduce you to Python and Jupyter Notebooks, mathematical tools that integrate numerical analysis, matrix computation and graphics in an easy-to-use environment. Jupyter Notebooks are highly interactive; their interpretative nature allows you to explore mathematical concepts in signal processing without tedious programming. Once grasped, the same tool can be used for other subjects such as circuit analysis, communications, and control engineering.
 
 ## Learning Outcomes
 At the end of this lab you will be able to:
