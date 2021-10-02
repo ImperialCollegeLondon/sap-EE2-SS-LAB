@@ -7,11 +7,11 @@
 </p>
 
 ## Introduction
-This lab will teach you some fundamentals of Digital Signal Processing (DSP), and introduce you to MATLAB, a mathematical tool that integrates numerical analysis, matrix computation and graphics in an easy-to-use environment. MATLAB is highly interactive; its interpretative nature allows you to explore mathematical concepts in signal processing without tedious programming. Once grasped, the same tool can be used for other subjects such as circuit analysis, communications, and control engineering.
+This lab will teach you some fundamentals of Digital Signal Processing (DSP), and introduce you to Python and Jupyter notebooks, a mathematical tool that integrates numerical analysis, matrix computation and graphics in an easy-to-use environment. Jupyter notebooks are highly interactive; their interpretative nature allows you to explore mathematical concepts in signal processing without tedious programming. Once grasped, the same tool can be used for other subjects such as circuit analysis, communications, and control engineering.
 
 ## Learning Outcomes
 At the end of this lab you will be able to:
-1. Generate and analyse discrete-time signals using MATLAB  
+1. Generate and analyse discrete-time signals using Python  
 2. Analyse signals by applying Fourier transforms and window functions
 3. Analyse digital filters and their responses
 4. Demonstrate conceptual understanding of discrete signal processing 
@@ -19,7 +19,7 @@ At the end of this lab you will be able to:
 
 ## Objectives
 1. Derive equations for the 3 types of Discrete Fourier Transforms.
-2. Generate sinusoidal signals in MATLAB as vectors and investigate the effects of DFT and Windowing. You will then use these techniques to investigate an unknown signal (provided).
+2. Generate sinusoidal signals in Python as vectors and investigate the effects of DFT and Windowing. You will then use these techniques to investigate an unknown signal (provided).
 3. Filter noise from the unknown signal by removing unwanted frequencies in the frequency domain.
 4. Investigate the effects of passing Pulse and Impulse signals through a digital filter.
 5. Investigate simple digital filter and their responses (FIR and IIR).
