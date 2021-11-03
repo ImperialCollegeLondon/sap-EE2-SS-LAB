@@ -18,18 +18,16 @@ def cosgen(fs, fsig, Nsamp):
     y = np.cos(2*np.pi*fsig*t)
     return t, y
 
-
-def plot_signal(*args, title='', xlabel='', ylabel='', func='plot'):
+def plot_signal(*args, title='', xlabel='', ylabel='', func='plot', **kwargs):
     fig, ax = plt.subplots()
-    
-    eval('ax.'+func+'(*args)')
+
+    eval('ax.'+func+'(*args, **kwargs)')
 
     ax.set(xlabel=xlabel, ylabel=ylabel, title=title)
     ax.grid()
 
     plt.tight_layout()
     return plt
-
 
 def plot_spec(*args, title='', dB=False, func='plot'):
     
