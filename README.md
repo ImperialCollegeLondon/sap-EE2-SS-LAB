@@ -1,4 +1,4 @@
-# S&S Laboratory Coursework 2021
+# Signals and Systems Laboratory Coursework
 
 ## Introductory Video
 
