@@ -32,14 +32,14 @@ This experiment is designed to support the second year Signals and Systems cours
 
 
 ## Timetable
-There are 7 exercises in this coursework; Exercises 1 to 4 are compulsory and you should aim to complete all of them in approximately 3 hours. Exercises 5 to 7 (plus part of Exercise 3) are optional and should take about 2 hours to complete. Drop-in sessions for this module will also be provided through MS Teams.
+There are 7 exercises in this coursework; Exercises 1 to 4 are compulsory and you should aim to complete all of them in approximately 4 hours. Exercises 5 to 7 (plus part of Exercise 3) are optional and should take about 4 hours to complete. Lab sessions for this module are also provided (see timetable).
 
 
 ## Assessment
 This coursework is not assessed separately but is assessed as part of the exam. Normally, some of the parts of Question 1 of the exam will ask questions on the material covered in the coursework. The nominal weighting of the coursework-related questions in the exam amounts to 10% of the course total. Given that the material covered in the coursework is also covered in lectures and tutorial questions, coursework-related questions will not be labelled as such on the exam paper, and may be embedded in other questions. The coursework-related questions in the exam will specifically assess understanding of the theoretical concepts and the methods for signal analysis and processing covered in the coursework. The optional exercises in the coursework will not be assessed in the exam in a coursework-specific manner.
 
 ## Contact
-This laboratory coursework was developed and designed by Aidan O. T. Hogg and Patrick A. Naylor (with help from Vincent W. Neo and Emilie d'Olne). Please email <aidan.hogg13@imperial.ac.uk> if you have any suggestions or comments about this document as this will help future year groups.
+This laboratory coursework was developed and designed by Aidan O. T. Hogg and Patrick A. Naylor (with help from Vincent W. Neo and Emilie d'Olne). Please post on the course Forum (or email p.naylor@imperial.ac.uk) if you have any suggestions or comments about this document as this will help future year groups.
 
 # Getting started with Jupiter Notebooks
 
