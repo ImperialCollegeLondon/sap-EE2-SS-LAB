@@ -52,7 +52,7 @@ This laboratory coursework was developed and designed by Aidan O. T. Hogg and Pa
 </p>
 
 1. Download this Git repository 
-2. Install Python 3.9 (or any version from 3.6 to 3.9) from <https://www.python.org/downloads/release/python-35>
+2. Install Python 3.9 (or any version from 3.6 to 3.9) from <https://www.python.org/downloads/macos/>
 3. Install the required Python packages 
 ```
 python -m pip install numpy matplotlib scipy soundfile jupyter
