@@ -71,7 +71,7 @@ python -m jupyter notebook
 </p>
 
 1. Download this Git repository 
-2. Install Python 3.9 (or any version from 3.6 to 3.9) from <https://www.python.org/downloads/>
+2. Install Python 3.9 (or any version from 3.6 to 3.10) from <https://www.python.org/downloads/>
 3. Download the get-pip.py (<https://bootstrap.pypa.io/get-pip.py>) file and store it in the same directory as python is installed. Run the command given below:
 ```
 python get-pip.py
