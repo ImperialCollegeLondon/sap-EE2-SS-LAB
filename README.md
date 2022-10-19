@@ -57,11 +57,12 @@ This laboratory coursework was developed and designed by Aidan O. T. Hogg and Pa
 ```
 python -m pip install numpy matplotlib scipy soundfile jupyter
 ```
+__Note:__ you may need to replace ``python`` with ``python3``
 4. Go to the `SS_LAB_2021` folder and run the Jupyter Notebook
 ```
 python -m jupyter notebook
 ```
-
+__Note:__ you may need to use ``python -m notebook`` instead
 ### Windows setup
 
 **Video of setup:**
@@ -77,6 +78,7 @@ python -m jupyter notebook
 python get-pip.py
 python -m pip install --upgrade pip
 ```
+__Note:__ you may need to replace ``python`` with ``python3``
 5. Install the required Python packages 
 ```
 python -m pip install numpy matplotlib scipy soundfile jupyter
@@ -85,3 +87,4 @@ python -m pip install numpy matplotlib scipy soundfile jupyter
 ```
 jupyter notebook
 ```
+__Note:__ you may need to use ``python -m notebook`` instead
