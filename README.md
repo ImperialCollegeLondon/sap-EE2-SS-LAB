@@ -1,10 +1,5 @@
 # Signals and Systems Laboratory Coursework
 
-## Introductory Video
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=Pq_7NF-my-E"><img src="/img/introductory_video.png?raw=true" alt="Introductory video"></a>
-</p>
 
 ## Introduction
 This lab will teach you some fundamentals of Digital Signal Processing (DSP), and introduce you to Python and Jupyter Notebooks, mathematical tools that integrate numerical analysis, matrix computation and graphics in an easy-to-use environment. Jupyter Notebooks are highly interactive; their interpretative nature allows you to explore mathematical concepts in signal processing without tedious programming. Once grasped, the same tool can be used for other subjects such as circuit analysis, communications, and control engineering.

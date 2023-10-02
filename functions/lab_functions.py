@@ -51,7 +51,7 @@ def plot_spec(*args, title='', dB=False, func='plot'):
         mag_ylabel = 'Magnitude [dB]'
     
     if len(args)==1:
-        xlabel='Frequency [sample no.]'
+        xlabel='Frequency [k]'
         eval('axs[0].'+func+'(mag)')
         axs[1].plot(phase)
     else:
