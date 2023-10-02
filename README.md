@@ -27,7 +27,20 @@ This experiment is designed to support the second year Signals and Systems cours
 
 
 ## Timetable
-There are 7 exercises in this coursework; Exercises 1 to 4 are compulsory and you should aim to complete all of them in approximately 4 hours. Exercises 5 to 7 (plus part of Exercise 3) are optional and should take about 4 hours to complete. Lab sessions for this module are also provided (see timetable).
+|Week starting|Lecture topic |Lab exercise |
+|----|--------------|-------------|
+|9/10|1: Introduction|/|
+|16/10|2:LTI Systems|EX1 - Introduction|
+|23/10|2:LTI Systems|EX2 - LTI systems|
+|30/10|3: Sampling| EX3 - Sampling|
+|6/11| Midterm| Midterm|
+|13/11| 4: Fourier Transform| EX4 - Fourier|
+|20/11| 5: Laplace | EX4 - Fourier|
+|27/11| 6: z-Transform | EX5 - Filters|
+|04/12| 7: Filters| EX6 - FIR/IIR Filters|
+
+
+There are 6 exercises in this coursework, each relating to a topic covered in lectures. Each exercise should last approximately 2 hours. We strongly recommend that you attend scheduled lab sessions to work on this coursework. 
 
 
 ## Assessment
@@ -47,14 +60,14 @@ This laboratory coursework was developed and designed by Aidan O. T. Hogg and Pa
 </p>
 
 1. Download this Git repository 
-2. Install Python 3.9 (or any version from 3.6 to 3.9) from <https://www.python.org/downloads/macos/>
+2. Install Python 3.12 (or any version from 3.6 to 3.12) from <https://www.python.org/downloads/macos/>
 3. Install the required Python packages 
 ```
 python -m pip install numpy matplotlib scipy soundfile jupyter
 ```
 __Note:__ you may need to replace ``python`` with ``python3``
 
-4. Go to the `SS_LAB_2021` folder and run the Jupyter Notebook
+4. Go to the `sap-EE2-SS-LAB` folder and run the Jupyter Notebook
 ```
 python -m jupyter notebook
 ```
@@ -68,7 +81,7 @@ __Note:__ you may need to use ``python -m notebook`` instead
 </p>
 
 1. Download this Git repository 
-2. Install Python 3.9 (or any version from 3.6 to 3.10) from <https://www.python.org/downloads/>
+2. Install Python 3.12 (or any version from 3.6 to 3.12) from <https://www.python.org/downloads/>
 3. Download the get-pip.py (<https://bootstrap.pypa.io/get-pip.py>) file and store it in the same directory as python is installed. Run the command given below:
 ```
 python get-pip.py
