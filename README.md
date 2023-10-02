@@ -1,4 +1,4 @@
-# Signals and Systems Laboratory Coursework
+ # Signals and Systems Laboratory Coursework
 
 
 ## Introduction
@@ -30,8 +30,8 @@ This experiment is designed to support the second year Signals and Systems cours
 |Week starting|Lecture topic |Lab exercise |
 |----|--------------|-------------|
 |9/10|1: Introduction|/|
-|16/10|2:LTI Systems|EX1 - Introduction|
-|23/10|2:LTI Systems|EX2 - LTI systems|
+|16/10|2: LTI Systems|EX1 - Introduction|
+|23/10|2: LTI Systems|EX2 - LTI systems|
 |30/10|3: Sampling| EX3 - Sampling|
 |6/11| Midterm| Midterm|
 |13/11| 4: Fourier Transform| EX4 - Fourier|
