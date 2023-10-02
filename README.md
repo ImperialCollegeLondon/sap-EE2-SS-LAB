@@ -93,7 +93,7 @@ __Note:__ you may need to replace ``python`` with ``python3``
 ```
 python -m pip install numpy matplotlib scipy soundfile jupyter
 ```
-5. Go to the `SS_LAB_2021` folder and run the Jupyter Notebook
+5. Go to the `sap-EE2-SS-LAB` folder and run the Jupyter Notebook
 ```
 jupyter notebook
 ```
