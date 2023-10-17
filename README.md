@@ -23,7 +23,7 @@ At the end of this lab you will be able to:
 To complete this lab you will need to install and run jupyter notebooks on you personal laptop.
 
 ## Recommended Textbooks
-This experiment is designed to support the second year Signals and Systems course. Since the laboratory and the lectures may not be synchronised, you may need to learn certain aspects of signal processing ahead of the lectures. While the notes provided in this experiment attempt to explain certain basic concepts, they are far from complete. You will likely find the recommended textbook helpful when studying this experiment as well as the lecture course: S. Haykin and B. Van Veen, 'Signals and Systems,' 2nd Ed., Wiley, 2003.
+This experiment is designed to support the second year Signals and Systems course. While the notes provided in this experiment attempt to explain certain basic concepts, they are far from complete. You will likely find the recommended textbook helpful when studying this experiment as well as the lecture course: S. Haykin and B. Van Veen, 'Signals and Systems,' 2nd Ed., Wiley, 2003.
 
 
 ## Timetable
