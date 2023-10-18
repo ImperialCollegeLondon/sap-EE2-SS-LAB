@@ -82,18 +82,11 @@ __Note:__ you may need to use ``python -m notebook`` instead
 
 1. Download this Git repository 
 2. Install Python 3.12 (or any version from 3.6 to 3.12) from <https://www.python.org/downloads/>
-3. Download the get-pip.py (<https://bootstrap.pypa.io/get-pip.py>) file and store it in the same directory as python is installed. Run the command given below:
-```
-python get-pip.py
-python -m pip install --upgrade pip
-```
-__Note:__ you may need to replace ``python`` with ``python3``
-
-4. Install the required Python packages 
+3. Install the required Python packages 
 ```
 python -m pip install numpy matplotlib scipy soundfile jupyter
 ```
-5. Go to the `sap-EE2-SS-LAB` folder and run the Jupyter Notebook
+4. Go to the `sap-EE2-SS-LAB` folder and run the Jupyter Notebook
 ```
 jupyter notebook
 ```
