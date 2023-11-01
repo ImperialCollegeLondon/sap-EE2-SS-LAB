@@ -31,10 +31,10 @@ This experiment is designed to support the second year Signals and Systems cours
 |----|--------------|-------------|
 |9/10|1: Introduction|/|
 |16/10|2: LTI Systems|EX1 - Introduction|
-|23/10|2: LTI Systems|EX2 - LTI systems|
-|30/10|3: Sampling| EX3 - Sampling|
+|23/10|3: Sampling|EX2 - LTI systems|
+|30/10|4: Fourier Transform| EX3 - Sampling|
 |6/11| Midterm| Midterm|
-|13/11| 4: Fourier Transform| EX4 - Fourier|
+|13/11| 5: Laplace| EX4 - Fourier|
 |20/11| 5: Laplace | EX4 - Fourier|
 |27/11| 6: z-Transform | EX5 - Filters|
 |04/12| 7: Filters| EX6 - FIR/IIR Filters|
