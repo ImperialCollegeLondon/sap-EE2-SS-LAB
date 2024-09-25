@@ -29,15 +29,15 @@ This experiment is designed to support the second year Signals and Systems cours
 ## Timetable
 |Week starting|Lecture topic |Lab exercise |
 |----|--------------|-------------|
-|9/10|1: Introduction|/|
-|16/10|2: LTI Systems|EX1 - Introduction|
-|23/10|3: Sampling|EX2 - LTI systems|
-|30/10|4: Fourier Transform| EX3 - Sampling|
-|6/11| Midterm| Midterm|
-|13/11| 5: Laplace| EX4 - Fourier|
-|20/11| 5: Laplace | EX4 - Fourier|
-|27/11| 6: z-Transform | EX5 - Filters|
-|04/12| 7: Filters| EX6 - FIR/IIR Filters|
+|7/10|1: Introduction|/|
+|14/10|2: LTI Systems|EX1 - Introduction|
+|21/10|3: Sampling|EX2 - LTI systems|
+|28/10|4: Fourier Transform| EX3 - Sampling|
+|4/11| Midterm| Midterm|
+|11/11| 5: Laplace| EX4 - Fourier|
+|18/11| 5: Laplace | EX4 - Fourier|
+|25/11| 6: z-Transform | EX5 - Filters|
+|02/12| 7: Filters| EX6 - FIR/IIR Filters|
 
 
 There are 6 exercises in this coursework, each relating to a topic covered in lectures. Each exercise should last approximately 2 hours. We strongly recommend that you attend scheduled lab sessions to work on this coursework. 
