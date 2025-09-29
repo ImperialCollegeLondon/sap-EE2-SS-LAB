@@ -27,7 +27,7 @@ This experiment is designed to support the second year Signals and Systems cours
 
 
 ## Timetable
-|Week starting|Lecture topic |Lab exercise |
+|Week number |Lecture topic |Lab exercise |
 |----|--------------|-------------|
 |3|1: Introduction|/|
 |4|2: LTI Systems|EX1 - Introduction|
